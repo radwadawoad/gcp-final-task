@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "radwa-dawoad",
+  "private_key_id": "8a00c08b55f4918623c97bd0589c4910fbc3c6f2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZfUSKWNTOKEoH\nJGRMpfrrhuBIY5XJAp8mVhlTrtk3t6T6xJCNibf5FR3W1UwvWXm+HFQ+3oLcXd7p\nGGPzqPtjTNwn9b0rN21KHbUij71V+L2l9VKSQtDoNPYtkh8cLqyAH5i6oEj9YdQ2\nmQiJBli32nWnjvHAj/UVYQ/YPQAH4GlJ0hm8Ok253DrfY77LF3XC1TftZZf2aat9\neaST6XgJjrsvVtb7DLXFbvYx9XnyfVXtkJFzxRq6c8BWIsTZroP8hZWzZYLsWorZ\nsvlrP/KZgR6NrNaWeiRSNojfO1CFKRGJX/oks+IvJvm1sev8PTVKYajd1V8QZtGQ\n4tKJ9IfjAgMBAAECggEAMzUML13IjYj6fZyCC+JaLsa+P9hdigTiZM9Xvsf4NzMB\nCxqWIWpfYu3NGTXrJ2biC293GcxxeySkMD8PZaSsTepADuLYvDjPMOltW3z6DVsh\npmMMq7g36yh0MyrrTyMxMMOZ2DWOdF51hsuSgeiIo7nyA7dYZ0Z/3SSXPSzIvFd5\nbV7LKe3WtZZ0X/3aE0oZ09yS+tNa9EpBvlUG+DNfX/fRMZnZem5vt2JqgSk9VY/E\nbaPuInQvO9/1Q9Six3L0fpgtA+W4S0hFlJTq5iAvsfPjDGEgGGDJWOJqbE74NpZ2\nbIsxoHqfV6YRo6AmxKUEz38ZY3txevyRIo5Q58k71QKBgQDKcfaxzSYg/g975S+H\nEldzEMbmTPyh2G+P1PkwLieTsE3BGGK3gHtI2lCQzAELgJFkI+eUAgHed2gQe85I\n6dKyW9LIjiMf3Ac9eN/w8NWgBr6+6F5VMqelDHzbFG210RTcf/arBoiIx4aeXwx9\nDg4NKPOIlk4xtQF0OmnGWf0vjQKBgQDCF+fbiPIbeGXksOUA0Ci5UyXuTIVMaah5\n5JGmoUp+cJ8m859tw6REvi4XtKyEnIoRTVvVcxf6qhn2uguIfkigW53OiDpzxZDl\ndJsYmaoMTCB+ALB1dv2L7V68S99vohS44sciCEcEudUonXSoNG6EiKE3pgj0UerZ\n/ZsnpH5BLwKBgGzZ1hFIAyZeNKkjU+jGferKrIeMAZJsM6AcnVfAmVsZwtT+baXJ\nGYDUkdkpN66dlI9JluzIH4Ukovmp+ALQZo+sO6vGcTBiOCpfYdnFRLfkqI8xlfct\nY2KlUkThuRO3tgXRcCoJO0SAM+vXo3liI0AEMt3QI38qmfuKpPEX1cDJAoGBAKvd\nHSowzijy6E6jMHQS3iyT6r9itJnf6RXeBfalVWA2e0azbJV2KkvQluHY0vYt4rfF\nZy7PVglYe9sUDEhVghu0ZDzQNenzpAT5xqf20TNIaXEJTTcGISa5Dizvhi7EN1Mr\nQ6bn63LM1mm7WuPiYYYrsY2kEMO+kZVrUeq9ZipzAoGAA5RtQxHS+xdZervJ6okq\nqg+xsQCn7ZgWGOqj3TukQXAfomvNGWWcO8dE+Hyn/+D6FNehH+pTHPyWFQUCdxA/\nfXq/lYnZctGEpHsgIVDyJaMJ1jIXPXlYOJmS46L8WbUyOZqY13oddWjfXjjG+wZs\n2xCxj4vTE6k+Ahv+KZpCdO0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gka-598@radwa-dawoad.iam.gserviceaccount.com",
+  "client_id": "100308222035324075004",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gka-598%40radwa-dawoad.iam.gserviceaccount.com"
+}
